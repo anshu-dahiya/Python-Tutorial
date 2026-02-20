@@ -61,7 +61,7 @@ if (
     maths >= 65 and 
     physics >= 55 and 
     chemistry >= 50 and 
-    (total >= 180 or (maths+physics) >= 140)
+    (total >= 200 or (maths+physics) >= 140)
     ):
     print("🎉 Congratulations! You are eligible for admission.")
 else:
